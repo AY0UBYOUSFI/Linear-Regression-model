@@ -1,0 +1,12 @@
+
+echo "# Linear-Regression-model" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AY0UBYOUSFI/Linear-Regression-model.git
+git push -u origin main
+
+git remote add origin https://github.com/AY0UBYOUSFI/Linear-Regression-model.git
+git branch -M main
+git push -u origin main
